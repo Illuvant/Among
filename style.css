@@ -5,7 +5,7 @@
 	
 }
 body {
-  background-image: src="bilder/Unbenannt.png";
+  background-colour: rgb(0, 0,1000); 
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
