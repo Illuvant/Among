@@ -12,8 +12,8 @@ body {
 
 header {
 	width: 960px;
-	margin-right: auto;
-	margin-left: auto;
+	height: 550px;
+	float: middle;
 	background-colour : rgb(19, 18, 32); 
   	
 
