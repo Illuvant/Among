@@ -2,6 +2,10 @@
 	width: 960px;
 	margin-right: auto;
 	margin-left: auto;
+	background-colour : rgb(19, 18, 32); 
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
 }
 
 body {
@@ -10,7 +14,7 @@ body {
 
 header {
 	padding: 10px;
-	background-colour : RGB(19, 18, 32); 
+	background-colour : rgb(19, 18, 32); 
   	background-repeat: no-repeat;
   	background-attachment: fixed;
   	background-size: cover;
@@ -21,18 +25,18 @@ section {
 	width: 960px;
 	height: 550px;
 	float: middle;
-	background-colour : RGB(19, 18, 32); 
+	background-colour : rgb(19, 18, 32); 
   	background-repeat: no-repeat;
   	background-attachment: fixed;
   	background-size: cover;
 }
 aside {
-	background-colour : RGB(19, 18, 32); 
+	background-colour : rgb(19, 18, 32); 
   	background-repeat: no-repeat;
   	background-attachment: fixed;
 }
 footer {
-	background-colour : RGB(19, 18, 32); 
+	background-colour : rgb(19, 18, 32); 
   	background-repeat: no-repeat;
   	background-attachment: fixed;
   	background-size: cover;
