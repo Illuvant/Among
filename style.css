@@ -2,13 +2,10 @@
 	width: 960px;
 	margin-right: auto;
 	margin-left: auto;
-	
 }
+
 body {
-  background-image : url(bilder/Unbenannt.png; 
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  
 }
 
 header {
@@ -20,6 +17,9 @@ section {
 	width: 960px;
 	height: 550px;
 	float: middle;
-	background: grey;
+	background-colour : RGB(19, 18, 32); 
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
 }
 
